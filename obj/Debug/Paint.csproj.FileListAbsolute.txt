@@ -1,0 +1,9 @@
+c:\users\masli_000\documents\visual studio 2013\Projects\Paint\Paint\bin\Debug\Paint.exe.config
+c:\users\masli_000\documents\visual studio 2013\Projects\Paint\Paint\bin\Debug\Paint.exe
+c:\users\masli_000\documents\visual studio 2013\Projects\Paint\Paint\bin\Debug\Paint.pdb
+c:\users\masli_000\documents\visual studio 2013\Projects\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+c:\users\masli_000\documents\visual studio 2013\Projects\Paint\Paint\obj\Debug\Paint.frmPaint.resources
+c:\users\masli_000\documents\visual studio 2013\Projects\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+c:\users\masli_000\documents\visual studio 2013\Projects\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+c:\users\masli_000\documents\visual studio 2013\Projects\Paint\Paint\obj\Debug\Paint.exe
+c:\users\masli_000\documents\visual studio 2013\Projects\Paint\Paint\obj\Debug\Paint.pdb
